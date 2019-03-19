@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+body{
+    text-align:center;
+    background-image:url("https://vignette.wikia.nocookie.net/aj-item-worth/images/b/b5/Boi2.gif/revision/latest?cb=20180908010210");
+    background-size:100%;
+     
+}
+div{
+    margin:auto;
+}
+span{
+    color:#2b7c77;
+}
+input{
+    font-family: 'PT Serif', serif;
+    font-size:18px;
+    margin:5px;
+}
+p{
+ display:none;   
+}
+img{
+  width:300px;
+  height:200px;
+}
+.header{
+    font-family: 'Luckiest Guy', cursive;
+    font-size:35px;
+    background-color:#f3e6ff;
+    padding:0px 0px 12px 0px;
+    width:500px;
+    border:white 5px dotted;
+    border-radius:5px;
+}
+.wrapper{
+    font-family: 'Inconsolata', monospace;
+    border:white 5px dotted;
+    background-color:#f3e6ff;
+    height:500px;
+    width:500px;
+    border-radius:5px;
+
+}
+.content{
+    margin-top:35px;
+    border:white 5px dotted;
+    background-color:#f3e6ff;
+    width:300px;
+    border-radius:5px;
+}
